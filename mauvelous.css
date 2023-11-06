@@ -1,0 +1,43 @@
+body,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown {
+  background: #3e2733;
+  color: #fff;
+  font: 150% Georgia, "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+}
+
+a,
+a:link,
+a:visited:hover {
+  color: #fff;
+  border-bottom: 0px;
+  background-color: #5d3b4c;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding-left: 0.5%;
+  padding-right: 0.5%;
+  white-space: nowrap;
+}
+
+a:visited {
+  background-color: #3b5d5d;
+  color: #fff;
+  border-bottom: 0px;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #6d4559 !important;
+}
+
+a:active,
+a:focus,
+button:focus {
+  outline: 1px solid;
+  outline-color: #3b5d3b;
+  background-color: #6d4559;
+}
+
+/*# sourceMappingURL=mauvelous.css.map */
